@@ -1,6 +1,7 @@
 # Min-Dos 🎮
 
-![Game Demo](https://imgur.com/a/XLJCmvC)
+![Game Demo](./assets/demo.gif)
+
 
 ---
 
